@@ -1,0 +1,1 @@
+FAIL	_/media/dong/Study/GIT/6.824-golabs-2015/src/paxos [build failed]
